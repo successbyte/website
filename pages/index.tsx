@@ -12,6 +12,8 @@ import { Redirect } from '../utils/redirect';
 export default function HomePage() {
   Redirect();
 
+  // testing
+
   return (
     <>
       <Head title='AsyncAPI Initiative for event-driven APIs' />
